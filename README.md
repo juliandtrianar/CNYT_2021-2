@@ -11,4 +11,7 @@
 - 6.Conjugado
 - 7.Conversion entre representaciones polar y cartesian
 - 8.Retornar la fase de un número complejo 
-
+### Indicaciones de uso
+Escribir en numero complejo de la siguiente forma.
+numeroComplejo = [1,2] 
+Donde 1 es la parte real y 2 la parte imaginaria.
