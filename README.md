@@ -1,7 +1,7 @@
 # CNYT_2021-2 💻
 ### Julian David Triana Roa 😎
 - Libreria  de operaciones de numeros complejos 🔢
-- Escuela Colombiana de Ingenieria Julio Garavito
+- Escuela Colombiana de Ingenieria Julio Garavito 🏦
 ### Funciones de  la libreria 🗒️
 - 1.Suma
 - 2.Producto
