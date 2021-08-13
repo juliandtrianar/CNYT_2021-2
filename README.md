@@ -1,8 +1,8 @@
-# CNYT_2021-2
-### Julian David Triana Roa 
+# CNYT_2021-2 💻
+### Julian David Triana Roa 😎
 - Libreria  de operaciones de numeros complejos, matrices y vectores
 - Escuela Colombiana de Ingenieria Julio Garavito
-### Funciones de  la libreria 
+### Funciones de  la libreria 🗒️
 - 1.Suma
 - 2.Producto
 - 3.Resta
