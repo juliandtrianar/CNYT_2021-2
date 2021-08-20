@@ -14,4 +14,4 @@
 ### Indicaciones de uso 
 - Escribir en numero complejo de la siguiente forma.
 > numeroComplejo = [1,2] 
-- Donde 1 es la parte real y 2 la parte imaginaria
+- Donde 1 es la parte real y 2 la parte imaginaria.
