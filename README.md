@@ -1,10 +1,10 @@
 # CNYT_2021-2 💻
 ### Julian David Triana Roa 😎
-- Libreria de operaciones de numeros complejos (Lab1)�
-- Libreria de operaciones de vectores y matrices (Lab2)
+- Libreria de operaciones de numeros complejos (Lab1CNYT)
+- Libreria de operaciones de vectores y matrices (Lab2CNYT)
 - Escuela Colombiana de Ingenieria Julio Garavito🏛️
 
-### Funciones de la libreria (Lab1) 🗒️
+### Funciones de la libreria (Lab1CNYT) 🗒️
 - 1.Suma
 - 2.Producto
 - 3.Resta
@@ -14,7 +14,7 @@
 - 7.Conversion entre representaciones polar y cartesian
 - 8.Retornar la fase de un número complejo 
 
-### Funciones de la libreria (Lab2)
+### Funciones de la libreria (Lab2CNYT)
 - 1.Adición de vectores complejos.
 - 2.Inverso (aditivo) de un vector complejo.
 - 3.Multiplicación de un escalar por un vector complejo.
